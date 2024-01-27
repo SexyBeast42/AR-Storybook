@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf72b5fa1a20614da243f4073fb305a, type: 3}
+  m_Name: Page 6
+  m_EditorClassIdentifier: 
+  pageLine: The third little pig worked hard all day and built his house with bricks.
+  pageModelScene: {fileID: 8401239692510051924, guid: 5e9b2ccb8fd9ff84c8a9e2f51ec6d1f3,
+    type: 3}
+  miniGame: {fileID: 8401239692510051924, guid: 6f7e8cc23c17d0347940bcc8c6af992e,
+    type: 3}
+  hasMiniGame: 1
+  miniGameType: 1
+  material: 3
+  hasFinishedMiniGame: 0
