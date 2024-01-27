@@ -70,3 +70,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore libil2cpp shared library files
+Library/il2cpp_android_arm64-v8a/libil2cpp.so
+Library/il2cpp_android_arm64-v8a/libil2cpp.dbg.so
+
+# Ignore libburst-llvm-15.dylib
+Library/ScriptAssemblies/libburst-llvm-15.dylib
+
+# Ignore Unity data files
+*.unity3d
+
+# Ignore ArtifactDB files
+Library/ArtifactDB
